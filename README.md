@@ -15,8 +15,8 @@
 
 **1. Клонируйте репозиторий**
 ```git clone https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/dungeon-master.git
-cd dungeon-master```
-
+cd dungeon-master
+```
 **2. Установите зависимости**
 ```pip install -r requirements.txt```
 
